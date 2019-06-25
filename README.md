@@ -12,7 +12,6 @@
       <h4>EDUCATION</h4>
       <h5>Minneapolis Community & Technical College                   Minneapolis, MN</h5>
       <ul> <li>Sound Engineering</li> <li>Dean's list 2019</li></ul> </div>
-
       <h5>Saint Paul Community College                                Saint Paul, MN</h5> 
       <ul> <li>HTML coding</li> <li>Web design</li> <li>Graphic design</li> </ul> </div>
       <h5>University of Hawaii, Manoa</h5><ul> <li>Political Science</li> <li>French</li> </ul> </div>
