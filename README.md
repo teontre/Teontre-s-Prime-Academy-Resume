@@ -6,8 +6,7 @@
    <link rel="stylesheet" type="text/css" href="main.css">
    </head>
    <body>
-      <h1 ALIGN=CENTER>Teontre Dickerson</h1>
-      <p>710 Pelham blvd. apt.1, Saint Paul MN, 818-415-4888, fathom3032@gmail.com</p>
+      <h1 ALIGN=CENTER>Teontre Dickerson</h1>  <img src="Brand Ambassador photo.jpg alt="Italian Trulli">      <p>710 Pelham blvd. apt.1, Saint Paul MN, 818-415-4888, fathom3032@gmail.com</p>
       <h4>Computer Skills</h4><p>Windows operating systems, Microsoft Office, Basic webpage coding (html), Apple operating systems, Adobe Software</p>
       <h4>EDUCATION</h4>
       <h5>Minneapolis Community & Technical College                   ,Minneapolis, MN</h5>
