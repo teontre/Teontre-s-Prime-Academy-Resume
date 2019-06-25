@@ -10,9 +10,9 @@
       <p>710 Pelham blvd. apt.1, Saint Paul MN, 818-415-4888, fathom3032@gmail.com</p>
       <h4>Computer Skills</h4><p>Windows operating systems, Microsoft Office, Basic webpage coding (html), Apple operating systems, Adobe Software</p>
       <h4>EDUCATION</h4>
-      <h5>Minneapolis Community & Technical College                   Minneapolis, MN</h5>
+      <h5>Minneapolis Community & Technical College                   ,Minneapolis, MN</h5>
       <ul> <li>Sound Engineering</li> <li>Dean's list 2019</li></ul> </div>
-      <h5>Saint Paul Community College                                Saint Paul, MN</h5> 
+      <h5>Saint Paul Community College                                ,Saint Paul, MN</h5> 
       <ul> <li>HTML coding</li> <li>Web design</li> <li>Graphic design</li> </ul> </div>
       <h5>University of Hawaii, Manoa</h5><ul> <li>Political Science</li> <li>French</li> </ul> </div>
 <h3>Experience</h3> <h4>Cedar Cultural Center</h4> <p>Sound Engineering Assistant</p>
